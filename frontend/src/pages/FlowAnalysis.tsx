@@ -1,7 +1,7 @@
 // frontend/src/pages/FlowAnalysis.tsx
 import React, { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
-import "./projectflow.css";
+import "./ProjectFlow.css";
 
 const API_BASE = import.meta.env.VITE_API_BASE || "http://localhost:5001";
 

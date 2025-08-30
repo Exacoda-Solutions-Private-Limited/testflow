@@ -1,7 +1,7 @@
 // frontend/src/pages/ProjectFlow.tsx
 import React, { useState } from "react";
 import { useParams, Link, useNavigate } from "react-router-dom";
-import "./projectflow.css";
+import "./ProjectFlow.css";
 
 const API_BASE = import.meta.env.VITE_API_BASE || "http://localhost:5001";
 const MAX_BYTES = 10 * 1024 * 1024; // 10MB
