@@ -1,7 +1,0 @@
-streamlit
-google-generativeai
-python-dotenv
-pdf
-pypdf
-PyPDF2
-reportlab
